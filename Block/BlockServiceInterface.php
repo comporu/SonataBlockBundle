@@ -48,7 +48,7 @@ interface BlockServiceInterface
      *             Use the method configureSettings instead.
      *             This method will be added to the BlockServiceInterface with SonataBlockBundle 4.0
      */
-    public function setDefaultSettings(OptionsResolverInterface $resolver);
+    public function setDefaultSettings( $resolver);
 
     /**
      * @param BlockInterface $block
