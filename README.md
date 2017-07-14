@@ -44,3 +44,6 @@ This package is available under the [MIT license](LICENSE).
 [coveralls_stable_link]: https://coveralls.io/github/sonata-project/SonataBlockBundle?branch=3.x
 [coveralls_unstable_badge]: https://coveralls.io/repos/github/sonata-project/SonataBlockBundle/badge.svg?branch=master
 [coveralls_unstable_link]: https://coveralls.io/github/sonata-project/SonataBlockBundle?branch=master
+
+
+/
